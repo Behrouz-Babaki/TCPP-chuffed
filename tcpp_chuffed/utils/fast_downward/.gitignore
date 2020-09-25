@@ -1,0 +1,11 @@
+.pyc
+driver/.cache/v/cache/lastfailed
+experiments/issue*/data/
+experiments/issue*/.*.-microbenchmark/**.obj/
+experiments/issue*/.*.-microbenchmark/benchmark
+experiments/issue*/.*.-microbenchmark/Makefile\.depend
+misc/autodoc/downward-xmlrpc\.secret
+misc/.tox/
+builds/
+src/CMakeLists.txt.user
+**/*.pyc
